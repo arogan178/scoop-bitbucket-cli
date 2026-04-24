@@ -1,19 +1,19 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/arogan178/bitbucket-cli/releases/download/v0.1.1/bt_0.1.1_windows_amd64.zip",
+            "url": "https://github.com/arogan178/bitbucket-cli/releases/download/v0.1.2/bt_0.1.2_windows_amd64.zip",
             "bin": [
                 "bt.exe"
             ],
-            "hash": "7955aab6c8d13a20cff6086cd1a16d27088813735f3ad04edb6de286d5736df5"
+            "hash": "7057d70e048262631d18b8fb64936b3ef199483d6bebfe699cf473bfb46dc966"
         },
         "arm64": {
-            "url": "https://github.com/arogan178/bitbucket-cli/releases/download/v0.1.1/bt_0.1.1_windows_arm64.zip",
+            "url": "https://github.com/arogan178/bitbucket-cli/releases/download/v0.1.2/bt_0.1.2_windows_arm64.zip",
             "bin": [
                 "bt.exe"
             ],
-            "hash": "261f57cb8a9303e530de0ada4c067ac9daed69390e0f423a543a3a43418044b3"
+            "hash": "8867999871e6aff6fdb38c137a341f04d5030cd61445825fec163aebaa065c7d"
         }
     },
     "homepage": "https://github.com/arogan178/bitbucket-cli",
